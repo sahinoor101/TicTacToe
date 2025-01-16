@@ -1,2 +1,3 @@
-#TicTacToe
-Creating a Simple Tic Tac Toe game using html css and javascript
+# TicTacToe
+creating a simple tictac toe game using html css and javascript
+
